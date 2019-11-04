@@ -1,2 +1,2 @@
 # Apple-Style-ScrollMagic
-"Apple" style scrollagic page 
+"Apple" style scrollmagic page 
